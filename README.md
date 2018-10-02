@@ -1,3 +1,3 @@
 # hello-world
-My first github repository 
-this is me learning about github commit changes
+My first github repository.  
+This is me learning about github commit changes
